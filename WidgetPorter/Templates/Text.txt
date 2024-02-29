@@ -1,0 +1,14 @@
+Begin Object Class=/Script/UMG.TextBlock Name="TextBlock_0" ExportPath="/Script/UMG.TextBlock'/Game/Widgets/NewWidgetBlueprint.NewWidgetBlueprint:WidgetTree.TextBlock_0'"
+   Text=NSLOCTEXT("", "FE29525245C4A1170CFA7BAD2D48441E", "This Is A Text Template :)")
+   ColorAndOpacity=(SpecifiedColor=(R=0.000000,G=0.000000,B=0.000000,A=1.000000))
+   Font=(FontObject="/Script/Engine.Font'/Game/UI/Foundation/Fonts/HeadingNow_76Bold_Font.HeadingNow_76Bold_Font'",TypefaceFontName="Default",Size=24.000000,LetterSpacing=1)
+End Object
+Begin Object Class=/Script/UMGEditor.WidgetSlotPair Name="WidgetSlotPair_1" ExportPath="/Script/UMGEditor.WidgetSlotPair'/Engine/Transient.WidgetSlotPair_1'"
+   WidgetName="TextBlock_0"
+   SlotPropertyNames(0)="LayoutData"
+   SlotPropertyNames(1)="bAutoSize"
+   SlotPropertyNames(2)="ZOrder"
+   SlotPropertyValues(0)="(Offsets=(Left=1.000000,Top=1.000000,Right=151.000000,Bottom=40.000000),Anchors=(Minimum=(X=0.000000,Y=0.000000),Maximum=(X=0.000000,Y=0.000000)),Alignment=(X=0.000000,Y=0.000000))"
+   SlotPropertyValues(1)="False"
+   SlotPropertyValues(2)="0"
+End Object

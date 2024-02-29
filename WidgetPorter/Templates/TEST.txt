@@ -1,0 +1,18 @@
+Begin Object Class=/Script/UMG.CanvasPanel Name="CanvasPanel_22" ExportPath="/Script/UMG.CanvasPanel'/Game/Widgets/NewWidgetBlueprint.NewWidgetBlueprint:WidgetTree.CanvasPanel_22'"
+   Begin Object Class=/Script/UMG.CanvasPanelSlot Name="CanvasPanelSlot_0" ExportPath="/Script/UMG.CanvasPanelSlot'/Game/Widgets/NewWidgetBlueprint.NewWidgetBlueprint:WidgetTree.CanvasPanel_22.CanvasPanelSlot_0'"
+   End Object
+   Begin Object Name="CanvasPanelSlot_0" ExportPath="/Script/UMG.CanvasPanelSlot'/Game/Widgets/NewWidgetBlueprint.NewWidgetBlueprint:WidgetTree.CanvasPanel_22.CanvasPanelSlot_0'"
+      LayoutData=(Offsets=(Left=1.000000,Top=1.000000,Right=151.000000,Bottom=40.000000))
+      Parent="/Script/UMG.CanvasPanel'CanvasPanel_22'"
+      Content="/Script/UMG.TextBlock'TextBlock_0'"
+   End Object
+   Slots(0)="/Script/UMG.CanvasPanelSlot'CanvasPanelSlot_0'"
+   bExpandedInDesigner=True
+End Object
+Begin Object Class=/Script/UMGEditor.WidgetSlotPair Name="WidgetSlotPair_4" ExportPath="/Script/UMGEditor.WidgetSlotPair'/Engine/Transient.WidgetSlotPair_4'"
+   WidgetName="CanvasPanel_22"
+End Object
+Begin Object Class=/Script/UMG.TextBlock Name="TextBlock_0" ExportPath="/Script/UMG.TextBlock'/Game/Widgets/NewWidgetBlueprint.NewWidgetBlueprint:WidgetTree.TextBlock_0'"
+   Text=NSLOCTEXT("", "FE29525245C4A1170CFA7BAD2D48441E", "This Is A Text Template :)")
+   Font=(Size=25.000000)
+End Object
